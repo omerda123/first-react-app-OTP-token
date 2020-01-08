@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/omerda123/first-react-app-OTP-token/static/css/main.b70b4942.chunk.css",
+    "main.js": "/omerda123/first-react-app-OTP-token/static/js/main.f3ba574b.chunk.js",
+    "main.js.map": "/omerda123/first-react-app-OTP-token/static/js/main.f3ba574b.chunk.js.map",
+    "runtime-main.js": "/omerda123/first-react-app-OTP-token/static/js/runtime-main.42f493fd.js",
+    "runtime-main.js.map": "/omerda123/first-react-app-OTP-token/static/js/runtime-main.42f493fd.js.map",
+    "static/js/2.16ed718d.chunk.js": "/omerda123/first-react-app-OTP-token/static/js/2.16ed718d.chunk.js",
+    "static/js/2.16ed718d.chunk.js.map": "/omerda123/first-react-app-OTP-token/static/js/2.16ed718d.chunk.js.map",
+    "index.html": "/omerda123/first-react-app-OTP-token/index.html",
+    "precache-manifest.29aa5b993dd4a14f687ce6c4e88748be.js": "/omerda123/first-react-app-OTP-token/precache-manifest.29aa5b993dd4a14f687ce6c4e88748be.js",
+    "service-worker.js": "/omerda123/first-react-app-OTP-token/service-worker.js",
+    "static/css/main.b70b4942.chunk.css.map": "/omerda123/first-react-app-OTP-token/static/css/main.b70b4942.chunk.css.map",
+    "static/js/2.16ed718d.chunk.js.LICENSE": "/omerda123/first-react-app-OTP-token/static/js/2.16ed718d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42f493fd.js",
+    "static/js/2.16ed718d.chunk.js",
+    "static/css/main.b70b4942.chunk.css",
+    "static/js/main.f3ba574b.chunk.js"
+  ]
+}
